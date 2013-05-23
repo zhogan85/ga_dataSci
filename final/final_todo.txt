@@ -1,0 +1,6 @@
+Improvements
+* add strength of schedule
+* test all seasons as one dataset
+* only test high performing players (ie, top 50)
+* include playoff stats
+* pull the links via script
